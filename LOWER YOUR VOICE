@@ -1,0 +1,9 @@
+def main():
+    indoor()
+
+def indoor():
+    speech = input("IS ANYONE THERE")
+    print(speech.lower())
+    #Your code goes here.
+
+main()
